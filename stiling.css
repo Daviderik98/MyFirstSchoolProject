@@ -1,0 +1,22 @@
+body{
+    background-color: slategray;
+}
+
+.pagefoot{
+background-color:rgb(152, 2, 2);
+height:160px; 
+width: 330px;
+position:relative;
+}
+
+a:link{
+    color:blue;
+}
+a:visited{
+    color:skyblue;
+}
+
+a:hover{
+    color:azure;
+}
+
